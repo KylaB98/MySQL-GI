@@ -1,1 +1,7 @@
-# MySQL-GI
+# MySQL-GI![224D8C5A-11B7-4B34-824A-8DE2F3BDF46E_1_105_c](https://user-images.githubusercontent.com/102987778/174711446-3c94063a-bae5-4d81-8969-a3cef283e4fe.jpeg)
+![91DAE464-3EC0-4956-97E8-985D8F47F4BF_1_105_c](https://user-images.githubusercontent.com/102987778/174711461-7f1f1ddd-74e3-4e8c-a29e-6d2d3cd93d1f.jpeg)
+![7BDB017B-B55B-4743-90E9-E157A9B2F783](https://user-images.githubusercontent.com/102987778/174711464-3cace6dd-f506-48e1-8433-889c73fa67ef.jpeg)
+![53BEFA29-DD8E-44F8-B5B3-69AF7E60FD7D](https://user-images.githubusercontent.com/102987778/174711470-6bec1f43-64a7-4541-8986-d9b7227b6229.jpeg)
+![F4211854-199F-42CC-A7E0-CA05C2093DC1](https://user-images.githubusercontent.com/102987778/174711476-2b688990-edee-460c-8f83-eb32b3ab4e83.jpeg)
+![5B1D5E42-78AA-4D05-A734-A05CA2F33115](https://user-images.githubusercontent.com/102987778/174711481-a89ab1e9-fcf9-4436-9e63-030fdd94e180.jpeg)
+![E730CDD4-EF10-471B-AD39-AB6CFCDC799B](https://user-images.githubusercontent.com/102987778/174711487-51009c9a-fa42-4ed2-a7ce-2695e7ff4087.jpeg)
